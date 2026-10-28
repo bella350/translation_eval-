@@ -5,3 +5,4 @@ dashscope
 openai
 requests
 python-docx
+sacrebleu
