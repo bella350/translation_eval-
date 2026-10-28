@@ -6,3 +6,4 @@ openai
 requests
 python-docx
 sacrebleu
+python-dotenv
